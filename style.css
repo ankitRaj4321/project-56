@@ -1,0 +1,64 @@
+.t{
+    text-align:center;
+    color: blueviolet;
+}
+
+.c{
+    margin-left: 500px;
+}
+
+.a{
+text-align:center;
+color: red;
+}
+
+.s{
+    text-align:center;
+    color: blue;
+}
+
+.e{
+    text-align: center;
+    color:blueviolet;
+}
+
+.r{
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    border-width: 10px;
+    border-style:dotted;
+    border-radius: 25px;
+    border-color: blue;
+}
+
+.q{
+    text-align: center;
+    color:red;
+}
+
+.z{
+    margin-left: 600px;
+    font-size: 30px;
+    border-width:5px;
+    border-radius: 25px;
+    border-style: dashed;
+    border-color: aquamarine;
+}
+
+.z:hover{
+    background-color: aqua;
+    transform: scale(2);
+    color:white;
+    border-color:greenyellow;
+}
+
+.z:link{
+    background-color: orange;
+}
+
+.z:active{
+  border-color: blue;
+  color: red;
+  background-color: pink;
+}
